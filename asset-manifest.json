@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/perpustakaan-react/static/css/main.2c9906a6.css",
+    "main.js": "/perpustakaan-react/static/js/main.e2c2d78e.js",
+    "static/media/slide5.jpg": "/perpustakaan-react/static/media/slide5.151dc47f706b052281ea.jpg",
+    "static/media/slide3.jpg": "/perpustakaan-react/static/media/slide3.62a516bf6d9ba347ed25.jpg",
+    "static/media/slide4.jpg": "/perpustakaan-react/static/media/slide4.565b760d352bef7b3696.jpg",
+    "static/media/efriani.png": "/perpustakaan-react/static/media/efriani.12ed6463c3602185505a.png",
+    "static/media/fa-solid-900.ttf": "/perpustakaan-react/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/ai.jpg": "/perpustakaan-react/static/media/ai.2c386dfce14df4aeebf9.jpg",
+    "static/media/cover_not_found.jpg": "/perpustakaan-react/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/fa-brands-400.ttf": "/perpustakaan-react/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/fa-solid-900.woff2": "/perpustakaan-react/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "/perpustakaan-react/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/logo.png": "/perpustakaan-react/static/media/logo.023571b1333602209e3a.png",
+    "static/media/slide1.jpg": "/perpustakaan-react/static/media/slide1.b4e6ceb9cc258337333e.jpg",
+    "static/media/fa-regular-400.ttf": "/perpustakaan-react/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/slide2.jpg": "/perpustakaan-react/static/media/slide2.5675488e2746bb2616e0.jpg",
+    "static/media/suparini.jpg": "/perpustakaan-react/static/media/suparini.86f2c14260add11bb87f.jpg",
+    "static/media/fa-regular-400.woff2": "/perpustakaan-react/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/fa-v4compatibility.ttf": "/perpustakaan-react/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/perpustakaan-react/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/perpustakaan-react/index.html",
+    "static/media/loader.svg": "/perpustakaan-react/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
+    "main.2c9906a6.css.map": "/perpustakaan-react/static/css/main.2c9906a6.css.map",
+    "main.e2c2d78e.js.map": "/perpustakaan-react/static/js/main.e2c2d78e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9906a6.css",
+    "static/js/main.e2c2d78e.js"
+  ]
+}
